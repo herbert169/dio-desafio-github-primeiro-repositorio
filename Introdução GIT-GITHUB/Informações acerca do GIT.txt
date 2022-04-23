@@ -1,0 +1,30 @@
+Beneficios de se aprender GIT e GIT-HUB:
+
+1- Controle de versão
+2- Armazenamento em nuvem
+3- Trabalho em Equipe
+4- Melhorias em códigos
+5- Reconhecimento
+
+				Aula 1.2
+		Navegação básica do terminal e instalação
+Objetivos da aula:
+- Mudar pastas
+- Listar pastas
+- Criar pastas/arquivos
+- Deletar pastas/arquivos
+
+	Comandos a ser utilizados:
+
+*DIR:   Lista pastas
+*CD:    Navegação entre as páginas
+*CD/:   Pastas especificas
+*CLS:   Limpa o terminal
+*CD..:  Retorna um nivel na busca
+*ECHO:	Printa no terminal o que digitamos
+*DEL:   Deleta pasta e arquivo
+*MKDIR: Criar pasta
+*RMDIR: Apagar repositório
+*TAB:   Localiza pasta pelo nome
+* > :   Redirecionamento de fluxo
+				
