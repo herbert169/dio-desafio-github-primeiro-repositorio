@@ -1,0 +1,248 @@
+			Introdução à progamação de internet
+					Exercicio Aula 1.1
+O que é internet?
+R: Uma rede de computadores.
+
+Qual foi o primeiro domínio cirado ? 
+R: Symbolics.com
+
+Primeiro blog ? 
+R: Open Diary
+
+Qual foi a primeira compra feita pela internet?
+R: Um cd de STING
+
+Qual o site mais antigo em atividade ?
+R: darpa.mil
+
+				Aula 1.2
+				
+			      Termos Chaves
+
+ Nessa aula foi possivel aprender um pouco mais acerca de alguns termos utilizados na internet, como por exemplo: SPAM, POP-UP,CACHE,COOKIES e etc. De todas as girias utilizadas eu conseguir absorver e aprender um pouco mais sobre cada uma delas, as que foram apresentadas eu ja conhecia, porém não possuia um conhecimento prévio das mesmas.
+
+				Aula 1.3
+			  
+		         A internert atualmente
+				
+Nessa aula aprendi o aumento e redução do consumo da internet antes e durante a pandemia, e como exercicio final, sim meu consumo a internert aumentou muito, tanto nas redes sociais como em jogos onlines.
+
+			        Aula 2.1
+				  Redes
+
+Bakborne(Espinha dorsal) tem como finalidade : Distribuir de forma eficaz a rede de internert. 
+Provedor de internet: responsavel por prover internert através do backborne
+Provedor de serviço: provêm serviços voltados para internet.(fibra,adsl,dial-up e etc)
+caminho inverso da conexeão internet: WWW, DNS, IP, CLASSES DE REDE, 127.0.0.1
+
+				Aula 3.1 
+		TCP/IP, Portas, Roteadores, Switches,Modens
+	
+		**Protocolos de comunicação entre computadores em rede.**
+TCP: signifca Transimission Control Protocol -  Protocolo de Controle de Transmissão.
+IP: Internet Protocol - Protocolo de Internet.
+				
+				TCP x UDP
+UDP: 
+*Rápido
+*Não confiável
+*carro do ovo(Dispara informação, porém não tem o retorno de recebimento desta informação.)
+*Livestream
+
+TCP:
+*Voltado à conexão
+*Handshake(Aperto de mão, por exemplo, troca de informação. envio/recebimento)
+*Integridade
+*Aplicativo de mensagens de texto
+
+
+					Aula 3.3
+				         Portas
+
+As portinhas por onde dados sairão e chegarão
+20: FTP
+22: SSH
+25: SMTP
+53: DNS
+80: HTTP
+443:HTTPS	
+				Aula 3.4
+			Roteadores, Swuitches e Modems
+Modem: Modulator-demodulator
+* Hardware que converte os dados em um formato que possa ser transimitido de um computador para o outro e lido por outro.
+
+Roteador: Distribui internet para um ou mais dispositivos de uma rede
+* Pode fazer a comunicação entre redes.
+Stitch: Distribui internert para um mais dispositivos de uma rede.(Envia de forma inteligente a destribuição da internert para os dispositivos.)
+
+					Exercicio final da aula
+Descubra qual a porta utilizada pelo MySQL:
+R: 3306
+Descubra qual a porta utilizada pelo Apache:
+R: 443
+
+						Aula 4.1
+				 Celular, Internert e outros dispositivos
+					Objetivos da aula
+
+1.Dados móveis: Conexão entre torre de comunicação e servidor
+2.Wi-fi: Conexão entre dispositos sem fio
+3.Bluetooth: Conexão ponto-a-ponto
+
+					Aula 4.2	
+			Browser, sites, aplicativos e webserver
+
+Browser: Um site que interprete as linguagens de progamação (LP) e as transforme em algo compreensível por um humano.
+	* Sabe identificar LP, linguagens de marcação e conteúdo multimedia.
+	* Página estática x dinâmica
+Página estática: Tela parada, sem muita interação do usuário com o site.
+Página Dinâmica: Tela interativa, com interação do usuário, resumidade é uma página onde o usuário consegue interagir muito com o site.
+
+Site: Página da internet, pode servir diversos propósitos, podem ser feitas em diversas LP.
+Aplicativo: Pode ser um software que é executado no navegador, ou também um aplicativo de celular. Hoje em dia quase não existe diferença entre site e aplicativo.
+E-commerce: "e", assim como em "e-mail", signifca "electronic". Traduzindo e-commerce pode se achar a definição " Comércio eletrônico".
+
+Exercicio final
+Boletos só existe no Brasil. Verdade? Será que algum outro país usa ?
+R: O Brasil é o único país que utilza o metodo de pagamento via boleto.
+
+Débito é uma invenão brasileira. Será?
+R: Sim, no inicio de 1970 
+
+Os sites hoje em dia usam mais sistemas próprios de pagamento ou terceirizados?
+Terceirizados
+Faça uma busca quantitativa no google, veja qual mais aparece: site, aplicativo ou progama(computador)
+R: Site, Progamas e aplicativos
+
+
+						4.3 Aula
+					       Web-server
+
+Existem 2 tipos: Estático e dinâmico
+Web-server dinâmico:
+* Arquivos (file server)
+* Aplicações (application server)
+* Banco de dados (database)
+* tudo junto e misturado
+
+Web-service
+*Interface disponível para fazer requisições e consultas em bancos de dados inacessíveis(Correio, Governo).
+
+						Exercício final
+
+Como se dá o acesso aos web-services dos correiros e do governo para, por exemplo, buscar os dadso de um CEP e os dados sobre os estudantes do Brasil, respectivamente.
+
+R: Através de Api (Interface de programação de aplicações).
+
+					Aula 5.1
+					Stacks
+Objetivos da aula:
+O que é?
+Front-end,back-end, full stacks?
+
+O que é?
+	Pilhas de tecnologia, conjunto de softwares necessários e suficientes para executar um aplicativo/progama, linguagens de progamação, ambientes e ferramentas de interação com o app/sw, capacidade e limitação de perfomance, pontos fortes e fracos do app/sw.
+
+
+							Front-end
+* "Parte da frente"
+* Site, software, aplicativo, web service
+* interface, UI, UX
+* Lógica de progamação, HTML, CSS, JQuery, JS, AJAX, PHP, Bootstrap/outros frameworks
+
+							Back-end
+* "Parte de trás"
+* Servidores, bancos de dados
+* "meio-de-campo" entre interface e bancos de dados, regras de negócios, validações
+* MySQL, Oracle, protocolos de comunicação, PHP, Java, node.js
+
+							Full Stack
+
+* Profissional que sabe trabalhar e todas as camadas das tecnologias de desenvolvimento/execução de um app/sw
+
+							Exercicio final
+
+Tente encontrar, na internet, quais são as tecnologias utilizadas em cada stack de grande empresas.
+
+Google :  O Google tem seu frontend (site) em html e javascript. No backend utiliza como linguagens principais C, C++, Go, Java e Python. De banco de dados BigTable e MariaDB.
+
+
+
+							Aula 6.1
+						       LPs e termos
+Objetivos da aula:
+* Principais linguagens
+* Termos comuns
+
+Principais linguagens:
+HTML(linguagem de marcação)
+CSS
+JAVASCRITP ( JQuery, Ajax, diversas libs)
+PHP
+.NET
+ASP
+Java
+Ruby(on Rails)
+Pyton
+Perl
+C/C++/C#
+
+			Termos comuns
+404
+Algoritmo
+ALT 
+API
+Aplicação
+Back-end
+Biblioteca/dll(conjunto de ferramentas diponiveis)
+Bootstrap ( framework javascript)
+Breakpoints (pontos chaves de informações de passos)
+Browser/navegador
+Bug 
+Cache
+Código
+Controle de Versão 
+Cookies
+debug
+deplay
+Design adaptativo/responsivo
+DNS
+Documentação
+Domínio
+DPI
+Editor de texto
+Estrutura de dados
+Favicon
+Fontes
+Framework
+Front-end
+FTP
+Full-stack
+Github/svn/cvs
+http (S)
+ip
+linguagem
+meta tags
+método ágil
+mobile
+mvc
+mvp
+mySQL
+pixel
+resolução
+servidor
+sistema operacional/so
+solução
+ssl
+ui
+ux
+versão
+wysiwyg
+ 
+
+Exercicio final
+pesquise um pouco sobre apache,mysql e php
+
+
+
+aula prática 
